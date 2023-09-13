@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(142, 213, 247);
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+nav, ul, li {
+    background-color: black;
+    list-style-type: none;
+    margin: 0 ;
+    padding: 0 ;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    display: block;
+    padding: 22px 10px;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    background-color: white;
+    color: rgb(48, 201, 94);
+}
+
+div.card {
+    padding-top:0.5em ;
+}
+
+div.slider, img {
+    width: 1063px;
+}
+
+img.image {
+    width: 150px;
+    height: 140px;
+    float: left;
+    margin: 10px;
+    margin-right:16px ;
+    margin-top: 1.1em;
+}
+
+div.content {
+    margin-top: 2px;
+}
+
+p.p-text {
+    font-size:12px;
+    text-align: justify;
+    column-count: 4;
+    column-fill: balance;
+    column-gap: 16px;
+    column-rule: 2px solid black;
+}
+
+footer {
+    background-color: black;
+    padding-bottom: 5px;
+}
+
+footer.footer {
+    color: white;
+    text-align: center;
+    font-size: x-small;
+}
+
+h2 {
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
